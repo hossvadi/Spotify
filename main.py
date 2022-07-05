@@ -10,3 +10,4 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 dataset = pd.read_csv("spotify_dataset.csv")
+spotify_dataset
